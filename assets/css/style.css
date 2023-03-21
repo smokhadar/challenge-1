@@ -28,7 +28,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,11 +36,11 @@ body {
     font-size: 25px;
 }
 
-.header div ul {
+.header section ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -179,6 +179,7 @@ a {
 .social-media-marketing img {
     max-height: 200px;
 }
+
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
