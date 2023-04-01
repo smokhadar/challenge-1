@@ -1,6 +1,11 @@
 # Description
 I added accessibility code in HTML and CSS to the Challenge 1 "Horiseon" website. I added semantic class attributes for non-semantic elements, wrote alt text for images, and corrected header styling errors. I increased font-size to aid reading accessibility as well.
 
+Here is a link to the deployed page: https://smokhadar.github.io/challenge-1/
+
+Here is a screenshot of the webpage: 
+<img width="1440" alt="Screenshot 2023-04-01 at 11 43 13" src="https://user-images.githubusercontent.com/127573523/229308781-ffe84e3a-d817-42a9-8f8c-0ed7dd82818c.png">
+
 I worked off the following user story and acceptance criteria:
 
 ## User Story
